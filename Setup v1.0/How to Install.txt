@@ -1,0 +1,6 @@
+0. Extract "PC Shop Management System.7z"
+1. Copy "PC Shop Management System" folder to your desired installation location.
+2. After paste in your desired location open "PC Shop Management System" folder. 
+3. install using "setup.exe".
+4. A shortcut will be created in Desktop.
+5. You can use this software via that desktop shortcut or "Setup.exe" file.
